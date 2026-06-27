@@ -13,7 +13,7 @@ frontend/ - React application
 backend/ - Express API
 
 ## Frontend Deployment
-https://your-vercel-url.vercel.app
+https://libraryfrontendproject.vercel.app/
 
 ## Backend Deployment
-https://your-render-url.onrender.com
+https://library-backend-wx6z.onrender.com
